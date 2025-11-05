@@ -96,7 +96,7 @@ It reflects my ability to:
 
 ---
 
-[View the Dashboard Report]()
+[View the Dashboard Report](https://github.com/Tejas-sonawane-1/Spotify-Analysis-Dashboard/blob/main/spotify%20analysis%20project.pdf)
 
 
 ⭐ *If you found this project interesting, please star this repository!* ⭐  
